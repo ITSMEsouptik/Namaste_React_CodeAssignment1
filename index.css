@@ -1,0 +1,14 @@
+#content {
+    background-color: aqua;
+    margin: 0 auto;
+    width: 60%;
+    padding: 1em;
+}
+
+#heading1 {
+    background-color: antiquewhite;
+}
+
+#heading2 {
+    background-color: blueviolet;
+}
